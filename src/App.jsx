@@ -1,4 +1,4 @@
-import Cards from "./component/cards"
+import Cards from "./component/Cards"
 import Footer from "./component/Footer"
 import Hero from "./component/hero"
 import HeroSection from "./component/HeroSection"
